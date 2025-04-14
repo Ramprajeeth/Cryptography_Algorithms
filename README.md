@@ -6,7 +6,7 @@ A React application for encrypting and decrypting text using various ciphers.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/encryption-app.git
+   git clone https://github.com/Ramprajeeth/Cryptography_Algorithms.git
    ```
 ## Navigate to the project directory:
 
