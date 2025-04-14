@@ -11,7 +11,7 @@ A React application for encrypting and decrypting text using various ciphers.
 ## Navigate to the project directory:
 
 ```
-cd encryption-app
+cd Cryptography_Algorithms
 ```
 ## Install dependencies:
 ```
