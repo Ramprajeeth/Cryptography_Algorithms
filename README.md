@@ -22,6 +22,6 @@ npm install
 npm start
 ```
 ## Usage
-Select an algorithm and mode (encrypt/decrypt).
-Enter the text and required key(s).
+Select an algorithm and mode (encrypt/decrypt).\
+Enter the text and required key(s).\
 Click "Encrypt" or "Decrypt" to see the result.
